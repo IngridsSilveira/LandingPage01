@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Mochiy+Pop+One&family=Pacifico&display=swap");
 
 /*SECTION PRINCIPAL*/
-.section_principal,
-.conteudo {
+.section_principal {
   background: linear-gradient(to bottom, #7092BF 30%, #fff 100%);
   display: flex;
   flex-direction: column;
