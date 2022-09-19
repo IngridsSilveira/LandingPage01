@@ -17,7 +17,7 @@
 .descricao {
   width: 70%;
   color: #f3f0f0;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 .coluna {
   display: flex;
