@@ -12,7 +12,7 @@ Foi utilizado as linguagens HTML, CSS, Javascript e o framework bootstrap na cri
 
 ### Screenshot
 
-![](assets/images/Landing-Page01.png)
+![](assets/images/lp01.png)
 
 ### Links
 
